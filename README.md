@@ -4,6 +4,9 @@ This project is created for creating repository in github and for learning how t
 
 This project is only for testing purpose.
 
+Selenium is built using a common build tool called [Bazel](https://bazel.build/), to
+allow us to easily manage dependency downloads, generate required binaries, build and release packages, and execute tests;
+all in a fast, efficient manner. For a more detailed discussion, read Simon Stewart's article on [Building Selenium](https://www.selenium.dev/blog/2023/building-selenium/)
 To refer github id, [please visit](https://github.com/pranjali-ganvir/SampleProject)
 
 ## Contributors
@@ -20,11 +23,6 @@ To refer github id, [please visit](https://github.com/pranjali-ganvir/SampleProj
 - Cucumber
 - Jenkins
 - TestNg
-
-Selenium is built using a common build tool called [Bazel](https://bazel.build/), to
-allow us to easily manage dependency downloads, generate required binaries, build and release packages, and execute tests;
-all in a fast, efficient manner. For a more detailed discussion, read Simon Stewart's article on [Building Selenium](https://www.selenium.dev/blog/2023/building-selenium/)
-
 
 ### All Platforms
 * Java JDK version 17 or greater (e.g., [Java 17 Temurin](https://adoptium.net/temurin/releases/?version=17))
