@@ -28,7 +28,7 @@ To refer github id, [please visit](https://github.com/pranjali-ganvir/SampleProj
 
 ### All Platforms
 
-###Java
+## Java
   * Java JDK version 17 or greater (e.g., [Java 17 Temurin](https://adoptium.net/temurin/releases/?version=17))
   * Set `JAVA_HOME` environment variable to location of Java executable (the JDK not the JRE)
   * To test this, try running the command `javac`. This command won't exist if you only have the JRE
