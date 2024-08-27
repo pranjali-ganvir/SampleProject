@@ -8,18 +8,18 @@ To refer github id, [please visit](https://github.com/pranjali-ganvir/SampleProj
 
 ## Contributors
 
-*Pranjali
-*Sita
-*Geeta
-*Sonu
+* Pranjali
+* Sita
+* Geeta
+* Sonu
 
 ## Pre-requisite
 
--Core Java
--Selenium Framework
--Cucumber
--Jenkins
--TestNg
+- Core Java
+- Selenium Framework
+- Cucumber
+- Jenkins
+- TestNg
 
 Selenium is built using a common build tool called [Bazel](https://bazel.build/), to
 allow us to easily manage dependency downloads, generate required binaries, build and release packages, and execute tests;
