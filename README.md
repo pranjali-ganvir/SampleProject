@@ -1,8 +1,10 @@
-# SampleProject
-This project is created for testing git and github only
-# Selenium
+# SampleProject for Automation Testing using Selenium (Java)
 
-[![CI](https://github.com/SeleniumHQ/selenium/actions/workflows/ci.yml/badge.svg?branch=trunk&event=schedule)](https://github.com/SeleniumHQ/selenium/actions/workflows/ci.yml)
+This project is created for creating repository in github and for learning how to use and edit readme.md file in github. 
+This project will be made using only Java programming language and Selenium Tool.
+
+To refer github id, [please visit](https://github.com/pranjali-ganvir/SampleProject)
+
 
 <a href="https://selenium.dev"><img src="common/images/selenium_logo_mark_green.svg" width="180" alt="Selenium Logo"/></a>
 
